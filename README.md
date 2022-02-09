@@ -1,4 +1,3 @@
 # APK
 halo
-sas
-2. deskrip
+2. deskripsikan
